@@ -88,7 +88,7 @@ def resolve_domain(domain: str) -> Domain:
     return Domain(
         domain=domain,
         status=js['Status'],
-        ips=list(ips),
+        ips=sorted(ips),
     )
 
 
