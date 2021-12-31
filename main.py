@@ -1,3 +1,4 @@
+import csv
 import dataclasses
 import json
 from dataclasses import dataclass
@@ -37,14 +38,13 @@ class Institution:
 @dataclass
 class Domain:
     domain: str
-    status: int
-    ips: List[str]
+    record_exists: bool
 
 
 @dataclass
 class InstitutionWithDomains:
     institution: Institution
-    resolved_domains: List[Domain]
+    blocked_domains: List[Domain]
 
 
 institutions = [
@@ -87,8 +87,7 @@ def resolve_domain(domain: str) -> Domain:
 
     return Domain(
         domain=domain,
-        status=js['Status'],
-        ips=sorted(ips),
+        record_exists=any(ips),
     )
 
 
@@ -105,24 +104,42 @@ def fetch_institution_domains(institution: Institution) -> List[str]:
 
 
 def create_blocked_domains_lists() -> List[InstitutionWithDomains]:
-    for institution in institutions:
+    for institution in institutions[:1]:
         domains = fetch_institution_domains(institution)
         resolved_domains = list(resolve_domains(domains))
 
         yield InstitutionWithDomains(
             institution=institution,
-            resolved_domains=resolved_domains
+            blocked_domains=resolved_domains
         )
 
 
+def write_csv_file(institutions_with_domains: List[InstitutionWithDomains]):
+    with open('isp-blocked-domains.csv', 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['domain', 'record_exists', 'institution'])
+
+        for institution_with_domains in institutions_with_domains:
+            institution = institution_with_domains.institution
+
+            for blocked_domain in institution_with_domains.blocked_domains:
+                writer.writerow([
+                    blocked_domain.domain,
+                    int(blocked_domain.record_exists),
+                    institution.name,
+                ])
+
+
 def write_blocked_domain_files():
-    blocked_domains_lists = list(create_blocked_domains_lists())
+    institutions_with_domains = list(create_blocked_domains_lists())
 
     with open('isp-blocked-domains.min.json', 'w') as outfile:
-        json.dump(blocked_domains_lists, outfile, separators=(',', ':'), cls=EnhancedJSONEncoder)
+        json.dump(institutions_with_domains, outfile, separators=(',', ':'), cls=EnhancedJSONEncoder)
 
     with open('isp-blocked-domains.json', 'w') as outfile:
-        json.dump(blocked_domains_lists, outfile, indent=4, cls=EnhancedJSONEncoder)
+        json.dump(institutions_with_domains, outfile, indent=4, cls=EnhancedJSONEncoder)
+
+    write_csv_file(institutions_with_domains)
 
 
 if __name__ == '__main__':
