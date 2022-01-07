@@ -1910,7 +1910,7 @@
             },
             {
                 "domain": "1xslot8.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslot9.xyz",
