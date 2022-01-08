@@ -1566,7 +1566,7 @@
             },
             {
                 "domain": "bitstarz21.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslotmobi1.xyz",
@@ -1610,7 +1610,7 @@
             },
             {
                 "domain": "bitstarz22.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-52.com",
