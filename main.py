@@ -51,7 +51,7 @@ institutions = [
     Institution(
         name='Lietuvos bankas',
         source_url='https://lpt.lrv.lt/uploads/lpt/documents/files/neleg.txt',
-        block_ips=['193.219.8.149'],
+        block_ips=['62.77.154.37'],
     ),
     Institution(
         name='Lošimai',
@@ -132,9 +132,6 @@ def write_csv_file(institutions_with_domains: List[InstitutionWithDomains]):
 
 def write_blocked_domain_files():
     institutions_with_domains = list(create_blocked_domains_lists())
-
-    with open('isp-blocked-domains.min.json', 'w') as outfile:
-        json.dump(institutions_with_domains, outfile, separators=(',', ':'), cls=EnhancedJSONEncoder)
 
     with open('isp-blocked-domains.json', 'w') as outfile:
         json.dump(institutions_with_domains, outfile, indent=4, cls=EnhancedJSONEncoder)

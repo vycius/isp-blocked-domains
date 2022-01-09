@@ -24,7 +24,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
+          git add -A || echo "No changes to commit"
           git commit -m "Update blocked domains" -a
 
       - name: push changes
