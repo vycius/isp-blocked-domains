@@ -104,7 +104,7 @@ def fetch_institution_domains(institution: Institution) -> List[str]:
 
 
 def create_blocked_domains_lists() -> List[InstitutionWithDomains]:
-    for institution in institutions[:1]:
+    for institution in institutions:
         domains = fetch_institution_domains(institution)
         resolved_domains = list(resolve_domains(domains))
 
