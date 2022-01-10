@@ -1610,7 +1610,7 @@
             },
             {
                 "domain": "bitstarz22.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-52.com",
@@ -5293,7 +5293,7 @@
             },
             {
                 "domain": "bitstarz22.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-52.com",
