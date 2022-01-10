@@ -7509,7 +7509,7 @@
             },
             {
                 "domain": "pdfknygos.org",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "skaitiniai.org",
