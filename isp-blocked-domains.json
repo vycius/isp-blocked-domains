@@ -1994,7 +1994,7 @@
             },
             {
                 "domain": "betwinner42.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "betwinner45.com",
@@ -5677,7 +5677,7 @@
             },
             {
                 "domain": "betwinner42.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "betwinner45.com",
