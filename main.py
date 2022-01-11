@@ -2,7 +2,9 @@ import csv
 import dataclasses
 import json
 from dataclasses import dataclass
+from io import StringIO
 from typing import List
+from urllib.parse import urlparse
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -50,7 +52,7 @@ class InstitutionWithDomains:
 institutions = [
     Institution(
         name='Lietuvos bankas',
-        source_url='https://lpt.lrv.lt/uploads/lpt/documents/files/neleg.txt',
+        source_url='https://www.lb.lt/illegalwww?export=csv',
         block_ips=['62.77.154.37'],
     ),
     Institution(
@@ -100,7 +102,24 @@ def fetch_institution_domains(institution: Institution) -> List[str]:
     r = s.get(institution.source_url)
     r.raise_for_status()
 
-    return [line.strip() for line in r.text.split('\n') if line.strip()]
+    if institution.name == 'Lietuvos bankas':
+        buff = StringIO(r.text)
+        dr = csv.reader(buff, delimiter=';')
+        is_first_row = True
+        domains = []
+
+        for row in dr:
+            if is_first_row:
+                is_first_row = False
+            else:
+                url = urlparse(row[0].strip())
+                domain = url.netloc.removeprefix('www.')
+
+                domains.append(domain)
+
+        return domains
+    else:
+        return [line.strip() for line in r.text.split('\n') if line.strip()]
 
 
 def create_blocked_domains_lists() -> List[InstitutionWithDomains]:
