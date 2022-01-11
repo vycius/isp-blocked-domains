@@ -4929,7 +4929,7 @@
             },
             {
                 "domain": "serialai.live",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bknyga.club",
