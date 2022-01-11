@@ -53,7 +53,7 @@ institutions = [
     Institution(
         name='Lietuvos bankas',
         source_url='https://www.lb.lt/illegalwww?export=csv',
-        block_ips=['62.77.154.37'],
+        block_ips=['193.219.8.149'],
     ),
     Institution(
         name='LPT',
