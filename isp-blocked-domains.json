@@ -3684,7 +3684,7 @@
     },
     {
         "institution": {
-            "name": "Lo\u0161imai",
+            "name": "LPT",
             "source_url": "https://lpt.lrv.lt/uploads/lpt/documents/files/neleg.txt",
             "block_ips": [
                 "62.77.154.37"
@@ -8217,7 +8217,7 @@
             },
             {
                 "domain": "aghdrezka.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.in.net",
