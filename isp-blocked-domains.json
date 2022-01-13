@@ -4133,7 +4133,7 @@
             },
             {
                 "domain": "epubknygos.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "knygos24.com",
@@ -4433,7 +4433,7 @@
             },
             {
                 "domain": "gerifilmai.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "hdrezka.co",
