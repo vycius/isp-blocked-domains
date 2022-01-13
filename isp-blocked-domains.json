@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "nirotrade.com",
@@ -4069,7 +4069,7 @@
             },
             {
                 "domain": "themusiclt.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "knygos.in",
@@ -4133,7 +4133,7 @@
             },
             {
                 "domain": "epubknygos.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "knygos24.com",
