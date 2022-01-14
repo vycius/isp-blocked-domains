@@ -10,7 +10,7 @@
         "blocked_domains": [
             {
                 "domain": "globalfxm.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "superbinary.com",
@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bbmtrade.com",
@@ -170,7 +170,7 @@
             },
             {
                 "domain": "aspenholding.co",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ptbanc.com",
@@ -226,7 +226,7 @@
             },
             {
                 "domain": "malleycapital.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "edge.targetprovider.pro",
@@ -258,7 +258,7 @@
             },
             {
                 "domain": "apcofx.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "traderschain.com",
@@ -669,7 +669,7 @@
             },
             {
                 "domain": "triobet-10.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bet365.com",
@@ -869,7 +869,7 @@
             },
             {
                 "domain": "bethard.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "spinpalace.com",
