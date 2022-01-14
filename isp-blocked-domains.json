@@ -10,7 +10,7 @@
         "blocked_domains": [
             {
                 "domain": "globalfxm.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "superbinary.com",
@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bbmtrade.com",
@@ -30,7 +30,7 @@
             },
             {
                 "domain": "marketscube.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "get-financial.com",
@@ -977,7 +977,7 @@
             },
             {
                 "domain": "mybet.es",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "mybet.gr",
@@ -1369,7 +1369,7 @@
             },
             {
                 "domain": "18bet.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-36.com",
@@ -1385,7 +1385,7 @@
             },
             {
                 "domain": "genesiscasino.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "casinojoy.com",
@@ -2453,7 +2453,7 @@
             },
             {
                 "domain": "slottica18.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica19.com",
@@ -2461,7 +2461,7 @@
             },
             {
                 "domain": "slottica20.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica21.com",
@@ -2897,7 +2897,7 @@
             },
             {
                 "domain": "casinoplanet.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "barbadoscasino.com",
@@ -3045,7 +3045,7 @@
             },
             {
                 "domain": "agentspinner.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "kokoyoko.space",

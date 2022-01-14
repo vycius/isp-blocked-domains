@@ -1,10 +1,10 @@
 domain,record_exists,institution
-globalfxm.com,0,Lietuvos bankas
+globalfxm.com,1,Lietuvos bankas
 superbinary.com,1,Lietuvos bankas
-fx-dealer.com,0,Lietuvos bankas
+fx-dealer.com,1,Lietuvos bankas
 bbmtrade.com,1,Lietuvos bankas
 midasglobe.com,1,Lietuvos bankas
-marketscube.com,0,Lietuvos bankas
+marketscube.com,1,Lietuvos bankas
 get-financial.com,1,Lietuvos bankas
 markets-invest.com,1,Lietuvos bankas
 programusistemos.lt,0,Lietuvos bankas
@@ -238,7 +238,7 @@ mybet.com.br,0,LPT
 mybet.cz,0,LPT
 mybet.de,1,LPT
 mybet.dk,0,LPT
-mybet.es,1,LPT
+mybet.es,0,LPT
 mybet.gr,0,LPT
 mybet.hu,0,LPT
 mybet.info,0,LPT
@@ -336,11 +336,11 @@ lt.unibet-34.com,1,LPT
 nutsbet.com,1,LPT
 lt.unibet-35.com,1,LPT
 488365.com,1,LPT
-18bet.com,0,LPT
+18bet.com,1,LPT
 lt.unibet-36.com,1,LPT
 888ladies.com,1,LPT
 mostbet.com,1,LPT
-genesiscasino.com,0,LPT
+genesiscasino.com,1,LPT
 casinojoy.com,1,LPT
 platinumplaycasino.com,1,LPT
 extraspel.com,1,LPT
@@ -607,9 +607,9 @@ slottica14.com,1,LPT
 slottica15.com,1,LPT
 slottica16.com,0,LPT
 slottica17.com,1,LPT
-slottica18.com,0,LPT
+slottica18.com,1,LPT
 slottica19.com,0,LPT
-slottica20.com,0,LPT
+slottica20.com,1,LPT
 slottica21.com,1,LPT
 slottica22.com,1,LPT
 slottica23.com,0,LPT
@@ -718,7 +718,7 @@ kassu.com,1,LPT
 spinit.com,1,LPT
 lt.unibet-73.com,1,LPT
 casinolab.com,1,LPT
-casinoplanet.com,0,LPT
+casinoplanet.com,1,LPT
 barbadoscasino.com,1,LPT
 casinoluck.com,1,LPT
 lt.unibet-74.com,1,LPT
@@ -755,7 +755,7 @@ slottica-play.com,1,LPT
 11slottica.com,1,LPT
 15slottica.com,0,LPT
 betiton.com,1,LPT
-agentspinner.com,0,LPT
+agentspinner.com,1,LPT
 kokoyoko.space,1,LPT
 casinoextra.com,1,LPT
 mrplay.com,1,LPT
