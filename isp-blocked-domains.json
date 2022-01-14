@@ -1725,7 +1725,7 @@
             },
             {
                 "domain": "bgo.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "x1zcszvu.world",
