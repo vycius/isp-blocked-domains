@@ -977,7 +977,7 @@
             },
             {
                 "domain": "mybet.es",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "mybet.gr",
