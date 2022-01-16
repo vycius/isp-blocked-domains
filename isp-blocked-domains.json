@@ -521,7 +521,7 @@
             },
             {
                 "domain": "pokerstars.com.kg",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "pokerstars.com.lv",
@@ -1725,7 +1725,7 @@
             },
             {
                 "domain": "bgo.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "x1zcszvu.world",
