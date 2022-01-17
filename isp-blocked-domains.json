@@ -4873,7 +4873,7 @@
             },
             {
                 "domain": "aghdrezka.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.in.net",
