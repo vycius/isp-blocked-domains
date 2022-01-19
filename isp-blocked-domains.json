@@ -310,7 +310,7 @@
             },
             {
                 "domain": "tradingteck.co",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "riseglobal.us",
