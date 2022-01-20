@@ -58,7 +58,7 @@ institutions = [
     Institution(
         name='LPT',
         source_url='https://lpt.lrv.lt/uploads/lpt/documents/files/neleg.txt',
-        block_ips=['62.77.154.37'],
+        block_ips=['62.77.154.37', '213.183.44.22'],
     ),
 
     Institution(
