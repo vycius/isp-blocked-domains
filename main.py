@@ -64,7 +64,7 @@ institutions = [
     Institution(
         name='RTK',
         source_url='https://www.rtk.lt/uploads/documents/files/atviri-duomenys/neteisetos-veiklos-vykdytojai/svetaines_pazeidziancios_autoriu_teises_20211222.txt',
-        block_ips=['88.119.87.40', '92.61.36.174'],
+        block_ips=['88.119.87.40', '92.61.36.174', '62.77.154.37'],
     ),
     Institution(
         name='VVTAT',
