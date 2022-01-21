@@ -2454,7 +2454,7 @@
             },
             {
                 "domain": "slottica18.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica19.com",
@@ -2462,11 +2462,11 @@
             },
             {
                 "domain": "slottica20.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica21.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica22.com",
@@ -5171,7 +5171,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
