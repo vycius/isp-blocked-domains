@@ -4091,7 +4091,7 @@
             },
             {
                 "domain": "themusiclt.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "knygos.in",
