@@ -4155,7 +4155,7 @@
             },
             {
                 "domain": "epubknygos.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "knygos24.com",
@@ -4395,7 +4395,7 @@
             },
             {
                 "domain": "filmai.us",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.ucoz.org",
