@@ -4167,7 +4167,7 @@
             },
             {
                 "domain": "pdfknygos.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "skaitiniai.org",
