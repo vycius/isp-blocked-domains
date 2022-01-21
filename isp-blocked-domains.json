@@ -2298,7 +2298,7 @@
             },
             {
                 "domain": "slottica6.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica7.com",
@@ -2306,7 +2306,7 @@
             },
             {
                 "domain": "slottica8.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "28365365.com",
@@ -2438,7 +2438,7 @@
             },
             {
                 "domain": "slottica14.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica15.com",
@@ -2462,7 +2462,7 @@
             },
             {
                 "domain": "slottica20.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica21.com",
@@ -2482,7 +2482,7 @@
             },
             {
                 "domain": "slottica25.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica26.com",
@@ -2498,11 +2498,11 @@
             },
             {
                 "domain": "slottica29.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica30.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "lt.unibet-65.com",
@@ -4935,7 +4935,7 @@
             },
             {
                 "domain": "m-squarehotel.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "8filmai.info",
