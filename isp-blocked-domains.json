@@ -2462,7 +2462,7 @@
             },
             {
                 "domain": "slottica20.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica21.com",
