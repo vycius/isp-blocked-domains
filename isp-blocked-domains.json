@@ -2306,7 +2306,7 @@
             },
             {
                 "domain": "slottica8.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "28365365.com",
@@ -2494,7 +2494,7 @@
             },
             {
                 "domain": "slottica28.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica29.com",
