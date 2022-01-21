@@ -2298,7 +2298,7 @@
             },
             {
                 "domain": "slottica6.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica7.com",
@@ -2306,7 +2306,7 @@
             },
             {
                 "domain": "slottica8.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "28365365.com",
@@ -2438,7 +2438,7 @@
             },
             {
                 "domain": "slottica14.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica15.com",
@@ -2462,7 +2462,7 @@
             },
             {
                 "domain": "slottica20.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica21.com",
@@ -2482,7 +2482,7 @@
             },
             {
                 "domain": "slottica25.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica26.com",
@@ -2494,15 +2494,15 @@
             },
             {
                 "domain": "slottica28.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica29.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica30.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-65.com",
