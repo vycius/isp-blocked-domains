@@ -2290,15 +2290,15 @@
             },
             {
                 "domain": "slottica4.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica5.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica6.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica7.com",
@@ -2306,7 +2306,7 @@
             },
             {
                 "domain": "slottica8.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "28365365.com",
@@ -2438,11 +2438,11 @@
             },
             {
                 "domain": "slottica14.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica15.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica16.com",
@@ -2450,7 +2450,7 @@
             },
             {
                 "domain": "slottica17.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica18.com",
@@ -2462,7 +2462,7 @@
             },
             {
                 "domain": "slottica20.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica21.com",
@@ -2482,27 +2482,27 @@
             },
             {
                 "domain": "slottica25.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica26.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica27.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica28.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica29.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica30.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "lt.unibet-65.com",
