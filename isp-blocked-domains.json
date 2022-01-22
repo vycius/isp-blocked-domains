@@ -4575,7 +4575,7 @@
             },
             {
                 "domain": "filmix.cloud",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "myhdrezka.com",
