@@ -4463,7 +4463,7 @@
             },
             {
                 "domain": "filmainemokamai.ql.lt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "gerifilmai.org",
@@ -4911,7 +4911,7 @@
             },
             {
                 "domain": "ziuretionline.ql.lt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "8filmai.fun",
