@@ -4031,6 +4031,18 @@
             {
                 "domain": "gudarcasino.com",
                 "record_exists": true
+            },
+            {
+                "domain": "loot.bet",
+                "record_exists": true
+            },
+            {
+                "domain": "gg.bet",
+                "record_exists": true
+            },
+            {
+                "domain": "iwildcasino.com",
+                "record_exists": true
             }
         ]
     },
