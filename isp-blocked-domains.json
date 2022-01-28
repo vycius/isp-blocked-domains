@@ -3034,7 +3034,7 @@
             },
             {
                 "domain": "11slottica.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "15slottica.com",
