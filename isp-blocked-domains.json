@@ -4211,7 +4211,7 @@
             },
             {
                 "domain": "filmai.biz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziurek.org",
@@ -4887,7 +4887,7 @@
             },
             {
                 "domain": "filmux.us",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziuret.online",
