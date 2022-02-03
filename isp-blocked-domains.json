@@ -4043,6 +4043,14 @@
             {
                 "domain": "iwildcasino.com",
                 "record_exists": true
+            },
+            {
+                "domain": "csgopositive.com",
+                "record_exists": true
+            },
+            {
+                "domain": "ksur937.com",
+                "record_exists": true
             }
         ]
     },
