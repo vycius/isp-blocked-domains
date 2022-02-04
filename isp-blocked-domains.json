@@ -3118,7 +3118,7 @@
             },
             {
                 "domain": "13slottica.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "mirblackpant.com",
@@ -3270,7 +3270,7 @@
             },
             {
                 "domain": "12slottica.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "16slottica.com",
