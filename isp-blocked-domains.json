@@ -562,7 +562,7 @@
             },
             {
                 "domain": "marathonbet0.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "betmarathon.com",
@@ -3118,7 +3118,7 @@
             },
             {
                 "domain": "13slottica.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "mirblackpant.com",
