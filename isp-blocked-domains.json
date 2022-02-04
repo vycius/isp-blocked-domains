@@ -2878,7 +2878,7 @@
             },
             {
                 "domain": "slottika10.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "kassu.com",
