@@ -4115,7 +4115,7 @@
             },
             {
                 "domain": "filmai.in",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "torrent.ai",
@@ -4171,7 +4171,7 @@
             },
             {
                 "domain": "filmai.tv",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "tartugi.com",
