@@ -4171,7 +4171,7 @@
             },
             {
                 "domain": "filmai.tv",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "tartugi.com",
