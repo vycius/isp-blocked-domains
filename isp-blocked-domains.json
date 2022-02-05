@@ -315,6 +315,22 @@
             {
                 "domain": "riseglobal.us",
                 "record_exists": true
+            },
+            {
+                "domain": "prencocex.com",
+                "record_exists": true
+            },
+            {
+                "domain": "dona-private-bank.com",
+                "record_exists": true
+            },
+            {
+                "domain": "transpays.com",
+                "record_exists": true
+            },
+            {
+                "domain": "investpayer.com",
+                "record_exists": true
             }
         ]
     },
