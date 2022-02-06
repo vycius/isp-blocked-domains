@@ -2186,7 +2186,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "game-365.com",
@@ -4639,7 +4639,7 @@
             },
             {
                 "domain": "putlockerc.to",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bmovies.co",
