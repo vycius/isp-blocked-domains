@@ -118,7 +118,7 @@
             },
             {
                 "domain": "learnmakingcash.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "cfdtraderapp.safeoffer.to",
@@ -4639,7 +4639,7 @@
             },
             {
                 "domain": "putlockerc.to",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bmovies.co",
