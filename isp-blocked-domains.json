@@ -3450,15 +3450,15 @@
             },
             {
                 "domain": "slottyway6.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottyway7.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottyway8.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottyway9.com",
