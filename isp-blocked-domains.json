@@ -4403,7 +4403,7 @@
             },
             {
                 "domain": "tophitai.lt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yst.lt",
