@@ -2186,7 +2186,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "game-365.com",
@@ -4995,7 +4995,7 @@
             },
             {
                 "domain": "filmai.io",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmas.top",
