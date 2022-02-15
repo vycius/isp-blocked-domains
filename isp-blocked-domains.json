@@ -94,7 +94,7 @@
             },
             {
                 "domain": "vet-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "olympusmarkets.com",
