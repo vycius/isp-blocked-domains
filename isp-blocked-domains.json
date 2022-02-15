@@ -4691,7 +4691,7 @@
             },
             {
                 "domain": "oxtorrent.proxybit.work",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "molkking.fr",
@@ -4787,7 +4787,7 @@
             },
             {
                 "domain": "gktorrent.unblocknow.space",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "torent9.cz",
