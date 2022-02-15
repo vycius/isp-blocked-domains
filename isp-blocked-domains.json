@@ -94,7 +94,7 @@
             },
             {
                 "domain": "vet-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "olympusmarkets.com",
@@ -5223,7 +5223,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.rs",
