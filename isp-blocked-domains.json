@@ -3730,7 +3730,7 @@
             },
             {
                 "domain": "arenabet.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "iggbet.com",
