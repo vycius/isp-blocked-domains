@@ -2330,7 +2330,7 @@
             },
             {
                 "domain": "betwinner42.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "betwinner45.com",
