@@ -4323,7 +4323,7 @@
             },
             {
                 "domain": "filmas.club",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "serialai.in",
