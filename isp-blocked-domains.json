@@ -4363,7 +4363,7 @@
             },
             {
                 "domain": "filmai.eu",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.pro",
