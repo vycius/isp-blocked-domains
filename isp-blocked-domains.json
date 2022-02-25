@@ -3198,7 +3198,7 @@
             },
             {
                 "domain": "goldenlinecasino.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "fruityvegas.co.uk",
@@ -4227,7 +4227,7 @@
             },
             {
                 "domain": "filmix.monster",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmai.co",
