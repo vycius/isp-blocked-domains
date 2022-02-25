@@ -4107,6 +4107,14 @@
             {
                 "domain": "slottica50.com",
                 "record_exists": true
+            },
+            {
+                "domain": "667-365.com",
+                "record_exists": true
+            },
+            {
+                "domain": "365-117.com",
+                "record_exists": true
             }
         ]
     },
