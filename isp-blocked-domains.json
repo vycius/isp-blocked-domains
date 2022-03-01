@@ -4687,7 +4687,7 @@
             },
             {
                 "domain": "putlockerc.to",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bmovies.co",
