@@ -214,7 +214,7 @@
             },
             {
                 "domain": "fxpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bitcoins-era.net",
