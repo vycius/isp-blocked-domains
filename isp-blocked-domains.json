@@ -3298,7 +3298,7 @@
             },
             {
                 "domain": "16slottica.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "55tsars.com",
