@@ -38,7 +38,7 @@
             },
             {
                 "domain": "markets-invest.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "programusistemos.lt",
@@ -330,6 +330,14 @@
             },
             {
                 "domain": "investpayer.com",
+                "record_exists": true
+            },
+            {
+                "domain": "ironmax.group",
+                "record_exists": true
+            },
+            {
+                "domain": "legal-cost-finance.com",
                 "record_exists": true
             }
         ]
