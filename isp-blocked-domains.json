@@ -34,11 +34,11 @@
             },
             {
                 "domain": "get-financial.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "markets-invest.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "programusistemos.lt",
