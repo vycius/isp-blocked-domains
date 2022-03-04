@@ -4123,6 +4123,14 @@
             {
                 "domain": "365-117.com",
                 "record_exists": true
+            },
+            {
+                "domain": "spinrio.com",
+                "record_exists": true
+            },
+            {
+                "domain": "azurcasino2.com",
+                "record_exists": true
             }
         ]
     },
@@ -4175,7 +4183,7 @@
             },
             {
                 "domain": "torrent.ai",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "hdxa.me",
