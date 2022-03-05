@@ -2486,7 +2486,7 @@
             },
             {
                 "domain": "slottica20.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottica21.com",
@@ -3470,11 +3470,11 @@
             },
             {
                 "domain": "slottyway9.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottyway10.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "slottyway11.com",
