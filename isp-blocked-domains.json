@@ -4719,7 +4719,7 @@
             },
             {
                 "domain": "cpasbien.sh",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yggtorrent.li",
