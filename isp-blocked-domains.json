@@ -822,7 +822,7 @@
             },
             {
                 "domain": "fulltiltpoker.cz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "fulltiltpoker.eu",
