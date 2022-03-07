@@ -2478,7 +2478,7 @@
             },
             {
                 "domain": "slottica18.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica19.com",
