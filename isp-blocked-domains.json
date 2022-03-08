@@ -4223,7 +4223,7 @@
             },
             {
                 "domain": "knygos.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "kinocoin.co",
