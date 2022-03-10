@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "citadel-fx.com",
