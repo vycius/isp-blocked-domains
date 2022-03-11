@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "nirotrade.com",
@@ -2446,7 +2446,7 @@
             },
             {
                 "domain": "slottica10.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica11.com",
@@ -4723,7 +4723,7 @@
             },
             {
                 "domain": "cpasbien.sh",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yggtorrent.li",
