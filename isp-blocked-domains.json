@@ -894,7 +894,7 @@
             },
             {
                 "domain": "bethard.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "spinpalace.com",
@@ -1410,7 +1410,7 @@
             },
             {
                 "domain": "genesiscasino.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "casinojoy.com",
@@ -2818,7 +2818,7 @@
             },
             {
                 "domain": "casoola.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "jackpotsinaflash.com",
