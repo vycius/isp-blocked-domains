@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "nirotrade.com",
@@ -894,7 +894,7 @@
             },
             {
                 "domain": "bethard.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "spinpalace.com",
@@ -1410,7 +1410,7 @@
             },
             {
                 "domain": "genesiscasino.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "casinojoy.com",
@@ -2818,7 +2818,7 @@
             },
             {
                 "domain": "casoola.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "jackpotsinaflash.com",
@@ -4723,7 +4723,7 @@
             },
             {
                 "domain": "cpasbien.sh",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yggtorrent.li",
