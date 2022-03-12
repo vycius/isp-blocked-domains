@@ -190,7 +190,7 @@
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "10brokers.com",
@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "nirotrade.com",
@@ -3058,7 +3058,7 @@
             },
             {
                 "domain": "11slottica.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "15slottica.com",
@@ -4207,7 +4207,7 @@
             },
             {
                 "domain": "themusiclt.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "knygos.in",
@@ -4271,7 +4271,7 @@
             },
             {
                 "domain": "epubknygos.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "knygos24.com",
@@ -4303,7 +4303,7 @@
             },
             {
                 "domain": "filmai.biz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziurek.org",
@@ -4571,7 +4571,7 @@
             },
             {
                 "domain": "gerifilmai.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "hdrezka.co",
@@ -4723,7 +4723,7 @@
             },
             {
                 "domain": "cpasbien.sh",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yggtorrent.li",
@@ -5287,7 +5287,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.rs",
