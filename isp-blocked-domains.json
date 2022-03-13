@@ -2446,7 +2446,7 @@
             },
             {
                 "domain": "slottica10.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica11.com",
