@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bbmtrade.com",
@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "citadel-fx.com",
@@ -74,7 +74,7 @@
             },
             {
                 "domain": "verslozinios.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ethereumcode2app.com",
@@ -186,7 +186,7 @@
             },
             {
                 "domain": "bitcoinevolutionapp.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "everfxglobal.com",
@@ -214,7 +214,7 @@
             },
             {
                 "domain": "fxpays.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bitcoins-era.net",
