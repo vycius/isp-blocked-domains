@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bbmtrade.com",
@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "citadel-fx.com",
@@ -190,7 +190,7 @@
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "10brokers.com",
