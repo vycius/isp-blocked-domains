@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "citadel-fx.com",
@@ -186,11 +186,11 @@
             },
             {
                 "domain": "bitcoinevolutionapp.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "10brokers.com",
@@ -214,7 +214,7 @@
             },
             {
                 "domain": "fxpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bitcoins-era.net",
