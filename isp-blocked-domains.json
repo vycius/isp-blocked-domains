@@ -50,7 +50,7 @@
             },
             {
                 "domain": "ct-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "skyway-capital.com",
@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "citadel-fx.com",
@@ -218,11 +218,11 @@
             },
             {
                 "domain": "bitcoins-era.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "marketssoft.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "malleycapital.com",
@@ -5287,7 +5287,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
