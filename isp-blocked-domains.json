@@ -74,7 +74,7 @@
             },
             {
                 "domain": "verslozinios.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ethereumcode2app.com",
