@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bbmtrade.com",
@@ -190,7 +190,7 @@
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "10brokers.com",
@@ -5287,7 +5287,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
