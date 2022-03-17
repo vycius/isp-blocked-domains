@@ -2234,7 +2234,7 @@
             },
             {
                 "domain": "1xslot3.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "1xslot4.xyz",
@@ -4507,7 +4507,7 @@
             },
             {
                 "domain": "yts.unblocked.nz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.unblocked.pw",
