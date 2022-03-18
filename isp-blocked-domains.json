@@ -3294,7 +3294,7 @@
             },
             {
                 "domain": "12slottica.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "16slottica.com",
@@ -4503,7 +4503,7 @@
             },
             {
                 "domain": "ytss.unblocked.to",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.unblocked.nz",
