@@ -2414,7 +2414,7 @@
             },
             {
                 "domain": "betwinner50.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-64.com",
@@ -5119,7 +5119,7 @@
             },
             {
                 "domain": "filmai.io",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmas.top",
