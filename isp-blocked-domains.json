@@ -4755,7 +4755,7 @@
             },
             {
                 "domain": "myhdrezka.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmas.pro",
@@ -5051,7 +5051,7 @@
             },
             {
                 "domain": "aghdrezka.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmai.in.net",
