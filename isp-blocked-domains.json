@@ -1798,7 +1798,7 @@
             },
             {
                 "domain": "betwinner30.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "betwinner33.com",
