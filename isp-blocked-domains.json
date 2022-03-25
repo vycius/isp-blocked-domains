@@ -339,6 +339,10 @@
             {
                 "domain": "legal-cost-finance.com",
                 "record_exists": true
+            },
+            {
+                "domain": "eurotrans-pay.com",
+                "record_exists": true
             }
         ]
     },
