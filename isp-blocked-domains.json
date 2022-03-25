@@ -4199,6 +4199,58 @@
             {
                 "domain": "vulkan17.bet",
                 "record_exists": true
+            },
+            {
+                "domain": "fortuneclock.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock1.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock6.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock10.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock13.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock14.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock15.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock16.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock17.com",
+                "record_exists": true
+            },
+            {
+                "domain": "fortuneclock18.com",
+                "record_exists": true
+            },
+            {
+                "domain": "casinodome.com",
+                "record_exists": true
+            },
+            {
+                "domain": "vegasoo.com",
+                "record_exists": true
+            },
+            {
+                "domain": "lapilanders.com",
+                "record_exists": true
             }
         ]
     },
