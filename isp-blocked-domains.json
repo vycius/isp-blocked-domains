@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "nirotrade.com",
@@ -3062,7 +3062,7 @@
             },
             {
                 "domain": "11slottica.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "15slottica.com",
@@ -4323,7 +4323,7 @@
             },
             {
                 "domain": "themusiclt.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "knygos.in",
@@ -4387,7 +4387,7 @@
             },
             {
                 "domain": "epubknygos.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "knygos24.com",
@@ -4687,7 +4687,7 @@
             },
             {
                 "domain": "gerifilmai.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "hdrezka.co",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
