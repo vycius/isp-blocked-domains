@@ -38,7 +38,7 @@
             },
             {
                 "domain": "markets-invest.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "programusistemos.lt",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
