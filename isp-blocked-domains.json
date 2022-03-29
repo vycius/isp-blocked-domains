@@ -1086,7 +1086,7 @@
             },
             {
                 "domain": "wwin.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-15.com",
