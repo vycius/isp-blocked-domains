@@ -138,7 +138,7 @@
             },
             {
                 "domain": "futureisbtc.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ru.afxtrade.lt",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
