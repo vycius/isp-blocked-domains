@@ -1082,7 +1082,7 @@
             },
             {
                 "domain": "olybet.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "wwin.com",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
