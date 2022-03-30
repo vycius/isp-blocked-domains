@@ -3078,7 +3078,7 @@
             },
             {
                 "domain": "kokoyoko.space",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "casinoextra.com",
@@ -4399,7 +4399,7 @@
             },
             {
                 "domain": "pdfknygos.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "skaitiniai.org",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
