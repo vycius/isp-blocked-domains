@@ -1086,7 +1086,7 @@
             },
             {
                 "domain": "wwin.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-15.com",
@@ -2094,7 +2094,7 @@
             },
             {
                 "domain": "bitstarz25.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "asprobet.com",
@@ -4475,11 +4475,11 @@
             },
             {
                 "domain": "ltfilmai.online",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmai.uk",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "onlinefilmai.net",
@@ -4627,7 +4627,7 @@
             },
             {
                 "domain": "filmai.us",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmai.ucoz.org",
@@ -4703,7 +4703,7 @@
             },
             {
                 "domain": "balticword.eu",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "visifilmai.net",
@@ -4771,11 +4771,11 @@
             },
             {
                 "domain": "filmai.site",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmas.site",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "pdfknygos.biz",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
