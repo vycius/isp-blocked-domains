@@ -4351,7 +4351,7 @@
             },
             {
                 "domain": "filmux.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmai.tv",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
