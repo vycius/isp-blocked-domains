@@ -2094,7 +2094,7 @@
             },
             {
                 "domain": "bitstarz25.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "asprobet.com",
@@ -4703,7 +4703,7 @@
             },
             {
                 "domain": "balticword.eu",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "visifilmai.net",
@@ -4771,11 +4771,11 @@
             },
             {
                 "domain": "filmai.site",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmas.site",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "pdfknygos.biz",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
