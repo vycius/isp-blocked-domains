@@ -4475,11 +4475,11 @@
             },
             {
                 "domain": "ltfilmai.online",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.uk",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "onlinefilmai.net",
@@ -4627,7 +4627,7 @@
             },
             {
                 "domain": "filmai.us",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.ucoz.org",
@@ -5079,7 +5079,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
