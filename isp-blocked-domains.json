@@ -4251,6 +4251,14 @@
             {
                 "domain": "lapilanders.com",
                 "record_exists": true
+            },
+            {
+                "domain": "playclub.com",
+                "record_exists": true
+            },
+            {
+                "domain": "stelario.com",
+                "record_exists": true
             }
         ]
     },
