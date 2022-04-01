@@ -5087,7 +5087,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
@@ -5442,7 +5442,7 @@
             },
             {
                 "domain": "zidiniaikatilai.lt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "sildymoprekes.lt",
