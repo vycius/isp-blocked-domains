@@ -190,7 +190,7 @@
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "10brokers.com",
