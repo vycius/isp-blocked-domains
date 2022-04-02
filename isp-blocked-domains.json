@@ -4751,7 +4751,7 @@
             },
             {
                 "domain": "onlinefilmai.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "hdrezka.tv",
@@ -5175,7 +5175,7 @@
             },
             {
                 "domain": "m-squarehotel.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "8filmai.info",
