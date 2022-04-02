@@ -190,7 +190,7 @@
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "10brokers.com",
@@ -5087,7 +5087,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
