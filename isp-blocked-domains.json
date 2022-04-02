@@ -234,7 +234,7 @@
             },
             {
                 "domain": "markets-soft.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "swtech.tilda.ws",
