@@ -158,7 +158,7 @@
             },
             {
                 "domain": "trustfx.io",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "trustfx.cc",
