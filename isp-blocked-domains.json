@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "nirotrade.com",
@@ -4331,7 +4331,7 @@
             },
             {
                 "domain": "themusiclt.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "knygos.in",
@@ -4427,7 +4427,7 @@
             },
             {
                 "domain": "filmai.biz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziurek.org",
@@ -4831,7 +4831,7 @@
             },
             {
                 "domain": "putlockerc.to",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bmovies.co",
@@ -4847,7 +4847,7 @@
             },
             {
                 "domain": "cpasbien.sh",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yggtorrent.li",
@@ -5087,7 +5087,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
@@ -5103,7 +5103,7 @@
             },
             {
                 "domain": "filmux.us",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziuret.online",
