@@ -1682,7 +1682,7 @@
             },
             {
                 "domain": "22bet1.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet3.com",
@@ -2118,11 +2118,11 @@
             },
             {
                 "domain": "22bet15.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet16.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "888casino.com",
@@ -5087,7 +5087,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
