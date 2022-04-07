@@ -1386,7 +1386,7 @@
             },
             {
                 "domain": "nutsbet.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-35.com",
@@ -5087,7 +5087,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
