@@ -4259,6 +4259,14 @@
             {
                 "domain": "stelario.com",
                 "record_exists": true
+            },
+            {
+                "domain": "365365304.com",
+                "record_exists": true
+            },
+            {
+                "domain": "luckydays.com",
+                "record_exists": true
             }
         ]
     },
@@ -5087,7 +5095,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
