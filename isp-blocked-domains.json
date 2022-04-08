@@ -826,7 +826,7 @@
             },
             {
                 "domain": "fulltiltpoker.cz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fulltiltpoker.eu",
@@ -5095,7 +5095,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
