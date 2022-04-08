@@ -34,7 +34,7 @@
             },
             {
                 "domain": "get-financial.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "markets-invest.com",
