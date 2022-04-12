@@ -4403,7 +4403,7 @@
             },
             {
                 "domain": "epubknygos.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "knygos24.com",
