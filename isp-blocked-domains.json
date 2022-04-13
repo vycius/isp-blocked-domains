@@ -94,7 +94,7 @@
             },
             {
                 "domain": "vet-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "olympusmarkets.com",
@@ -2198,7 +2198,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "game-365.com",
@@ -3274,23 +3274,23 @@
             },
             {
                 "domain": "888starz1.bet",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "888starz2.bet",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "888starz3.bet",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "888starz4.bet",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "888starz5.bet",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "casino.partycasino.com",
@@ -3950,7 +3950,7 @@
             },
             {
                 "domain": "888starz10.bet",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "888starz11.bet",
