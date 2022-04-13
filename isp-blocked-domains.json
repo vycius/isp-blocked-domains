@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bbmtrade.com",
@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "citadel-fx.com",
@@ -186,7 +186,7 @@
             },
             {
                 "domain": "bitcoinevolutionapp.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "everfxglobal.com",
@@ -5095,7 +5095,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
