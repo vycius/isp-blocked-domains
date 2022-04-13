@@ -50,7 +50,7 @@
             },
             {
                 "domain": "ct-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "skyway-capital.com",
@@ -74,7 +74,7 @@
             },
             {
                 "domain": "verslozinios.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ethereumcode2app.com",
@@ -174,7 +174,7 @@
             },
             {
                 "domain": "ptbanc.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "forex-im.com",
@@ -210,19 +210,19 @@
             },
             {
                 "domain": "getimmediateedge.com",
-                "record_exists": false
-            },
-            {
-                "domain": "fxpays.com",
                 "record_exists": true
             },
             {
-                "domain": "bitcoins-era.net",
+                "domain": "fxpays.com",
                 "record_exists": false
             },
             {
+                "domain": "bitcoins-era.net",
+                "record_exists": true
+            },
+            {
                 "domain": "marketssoft.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "malleycapital.com",
@@ -630,15 +630,15 @@
             },
             {
                 "domain": "pinnaclesports.eu",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "pinnaclesports.de",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "pinnaclesports.co.uk",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "unibet.de",
@@ -1038,7 +1038,7 @@
             },
             {
                 "domain": "paddypower.com.au",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "paddypower.ie",
@@ -1914,7 +1914,7 @@
             },
             {
                 "domain": "bitstarz21.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslotmobi1.xyz",
@@ -2198,7 +2198,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "game-365.com",
@@ -2238,7 +2238,7 @@
             },
             {
                 "domain": "1xslot3.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslot4.xyz",
@@ -2482,7 +2482,7 @@
             },
             {
                 "domain": "slottica18.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica19.com",
@@ -2498,7 +2498,7 @@
             },
             {
                 "domain": "slottica22.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica23.com",
@@ -3210,7 +3210,7 @@
             },
             {
                 "domain": "goldenlinecasino.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fruityvegas.co.uk",
@@ -4439,7 +4439,7 @@
             },
             {
                 "domain": "ziurek.org",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.gokas.lt",
@@ -4563,11 +4563,11 @@
             },
             {
                 "domain": "yts.unblocked.llc",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ytss.unblocked.is",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.unblocked.tw",
@@ -4579,7 +4579,7 @@
             },
             {
                 "domain": "yts.unblocked.nz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.unblocked.pw",
@@ -4627,7 +4627,7 @@
             },
             {
                 "domain": "ziurim.in",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziurim.net",
@@ -4795,7 +4795,7 @@
             },
             {
                 "domain": "pdfknygos.biz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "8filmai.online",
@@ -5027,7 +5027,7 @@
             },
             {
                 "domain": "wiflix.eu",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "torrent9-zone.fr",
@@ -5127,7 +5127,7 @@
             },
             {
                 "domain": "filmai.in.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmaiin.club",
