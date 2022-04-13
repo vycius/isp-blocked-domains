@@ -94,7 +94,7 @@
             },
             {
                 "domain": "vet-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "olympusmarkets.com",
@@ -4683,7 +4683,7 @@
             },
             {
                 "domain": "filmas.tv",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmaioso.lt",
@@ -5095,7 +5095,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
