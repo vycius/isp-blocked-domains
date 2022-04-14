@@ -630,15 +630,15 @@
             },
             {
                 "domain": "pinnaclesports.eu",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "pinnaclesports.de",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "pinnaclesports.co.uk",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "unibet.de",
@@ -1038,7 +1038,7 @@
             },
             {
                 "domain": "paddypower.com.au",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "paddypower.ie",
@@ -5095,7 +5095,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
