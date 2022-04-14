@@ -2198,7 +2198,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "game-365.com",
@@ -3302,7 +3302,7 @@
             },
             {
                 "domain": "16slottica.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "55tsars.com",
@@ -5095,7 +5095,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
