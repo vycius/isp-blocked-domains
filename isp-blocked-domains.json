@@ -1686,23 +1686,23 @@
             },
             {
                 "domain": "22bet3.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet4.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet5.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet6.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet7.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet9.com",
@@ -1710,11 +1710,11 @@
             },
             {
                 "domain": "22bet10.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet11.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet.online",
@@ -2034,7 +2034,7 @@
             },
             {
                 "domain": "22bet12.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "betwinner35.com",
@@ -2110,11 +2110,11 @@
             },
             {
                 "domain": "22bet13.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet14.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "22bet15.com",
@@ -5095,7 +5095,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
