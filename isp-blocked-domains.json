@@ -5039,7 +5039,7 @@
             },
             {
                 "domain": "wiflix.eu",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "torrent9-zone.fr",
@@ -5107,7 +5107,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
