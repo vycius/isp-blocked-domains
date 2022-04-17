@@ -4587,7 +4587,7 @@
             },
             {
                 "domain": "ytss.unblocked.to",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.unblocked.nz",
@@ -5107,7 +5107,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
