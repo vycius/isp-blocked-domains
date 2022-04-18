@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "nirotrade.com",
@@ -4867,7 +4867,7 @@
             },
             {
                 "domain": "cpasbien.sh",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yggtorrent.li",
@@ -5431,7 +5431,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
