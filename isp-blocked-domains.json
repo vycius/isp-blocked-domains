@@ -2838,7 +2838,7 @@
             },
             {
                 "domain": "slotica555.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica333.com",
@@ -5107,7 +5107,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
