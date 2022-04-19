@@ -2198,7 +2198,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "game-365.com",
@@ -5431,7 +5431,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
