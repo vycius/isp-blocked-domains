@@ -2202,7 +2202,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "game-365.com",
@@ -5111,7 +5111,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziureti.us.lt",
