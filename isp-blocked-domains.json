@@ -2202,7 +2202,7 @@
             },
             {
                 "domain": "fan-sport1.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "game-365.com",
