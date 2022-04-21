@@ -343,6 +343,10 @@
             {
                 "domain": "eurotrans-pay.com",
                 "record_exists": true
+            },
+            {
+                "domain": "sellfkings.com",
+                "record_exists": true
             }
         ]
     },
@@ -5107,7 +5111,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
