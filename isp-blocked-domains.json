@@ -5267,7 +5267,7 @@
             },
             {
                 "domain": "kinastau.do.am",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "nemokamatv.lt",
