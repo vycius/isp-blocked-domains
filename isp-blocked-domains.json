@@ -4283,6 +4283,14 @@
             {
                 "domain": "zenbetting3.com",
                 "record_exists": true
+            },
+            {
+                "domain": "galaxy.bet",
+                "record_exists": true
+            },
+            {
+                "domain": "jupicasino.com",
+                "record_exists": true
             }
         ]
     },
