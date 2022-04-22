@@ -4611,7 +4611,7 @@
             },
             {
                 "domain": "filmux.tv",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziurim.gokas.lt",
