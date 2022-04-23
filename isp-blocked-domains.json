@@ -158,11 +158,11 @@
             },
             {
                 "domain": "trustfx.io",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "trustfx.cc",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "libramethodapp.com",
@@ -266,7 +266,7 @@
             },
             {
                 "domain": "terra-finance.co",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "titantradeclub.com",
