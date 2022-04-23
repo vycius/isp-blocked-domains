@@ -4523,7 +4523,7 @@
             },
             {
                 "domain": "onlinefilmai.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmix.cc",
@@ -5119,7 +5119,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
