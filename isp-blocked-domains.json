@@ -1962,7 +1962,7 @@
             },
             {
                 "domain": "bitstarz22.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-52.com",
@@ -2862,7 +2862,7 @@
             },
             {
                 "domain": "slottika7.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-69.com",
@@ -5119,7 +5119,7 @@
             },
             {
                 "domain": "filmaivip.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziureti.us.lt",
