@@ -5367,7 +5367,7 @@
             },
             {
                 "domain": "fmovies.rs",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "fmoviesgo.to",
