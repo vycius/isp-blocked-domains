@@ -262,7 +262,7 @@
             },
             {
                 "domain": "traderschain.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "terra-finance.co",
