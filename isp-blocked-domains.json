@@ -5147,7 +5147,7 @@
             },
             {
                 "domain": "aghdrezka.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.in.net",
@@ -5443,7 +5443,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.rs",
