@@ -4291,6 +4291,30 @@
             {
                 "domain": "jupicasino.com",
                 "record_exists": true
+            },
+            {
+                "domain": "emucasino.com",
+                "record_exists": true
+            },
+            {
+                "domain": "888starz-1b.bet",
+                "record_exists": true
+            },
+            {
+                "domain": "888starz-2b.bet",
+                "record_exists": true
+            },
+            {
+                "domain": "888starz-3b.bet",
+                "record_exists": true
+            },
+            {
+                "domain": "888starz-4b.bet",
+                "record_exists": true
+            },
+            {
+                "domain": "888starz-5b.bet",
+                "record_exists": true
             }
         ]
     },
