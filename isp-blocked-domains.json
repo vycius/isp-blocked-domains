@@ -4367,7 +4367,7 @@
             },
             {
                 "domain": "torrent.ai",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "hdxa.me",
