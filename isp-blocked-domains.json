@@ -5303,7 +5303,7 @@
             },
             {
                 "domain": "nemokamatv.lt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "fmovies.to",
