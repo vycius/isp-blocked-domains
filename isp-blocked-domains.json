@@ -4679,7 +4679,7 @@
             },
             {
                 "domain": "ziurim.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "serialas.online",
