@@ -4883,7 +4883,7 @@
             },
             {
                 "domain": "ziurim.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "putlockerc.to",
