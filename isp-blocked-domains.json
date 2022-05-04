@@ -4711,7 +4711,7 @@
             },
             {
                 "domain": "ziureti.online",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziuri.me",
