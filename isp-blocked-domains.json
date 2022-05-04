@@ -347,6 +347,10 @@
             {
                 "domain": "sellfkings.com",
                 "record_exists": true
+            },
+            {
+                "domain": "hvblithuania.com",
+                "record_exists": true
             }
         ]
     },
@@ -2490,7 +2494,7 @@
             },
             {
                 "domain": "slottica19.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica20.com",
