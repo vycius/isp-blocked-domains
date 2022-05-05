@@ -3042,7 +3042,7 @@
             },
             {
                 "domain": "slottica-play.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "2slottica.com",
