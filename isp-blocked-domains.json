@@ -546,7 +546,7 @@
             },
             {
                 "domain": "pokerstars.com.ai",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "pokerstars.com.gp",
@@ -674,7 +674,7 @@
             },
             {
                 "domain": "nordicbet.fi",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "nordicbet.no",
@@ -838,7 +838,7 @@
             },
             {
                 "domain": "fulltiltpoker.eu",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fulltiltpoker.fi",
@@ -1138,7 +1138,7 @@
             },
             {
                 "domain": "betfair.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "mrgreen.com",
