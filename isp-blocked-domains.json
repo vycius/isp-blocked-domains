@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bbmtrade.com",
@@ -50,7 +50,7 @@
             },
             {
                 "domain": "ct-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "skyway-capital.com",
@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "citadel-fx.com",
@@ -74,7 +74,7 @@
             },
             {
                 "domain": "verslozinios.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ethereumcode2app.com",
@@ -174,7 +174,7 @@
             },
             {
                 "domain": "ptbanc.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "forex-im.com",
@@ -186,11 +186,11 @@
             },
             {
                 "domain": "bitcoinevolutionapp.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "10brokers.com",
@@ -210,19 +210,19 @@
             },
             {
                 "domain": "getimmediateedge.com",
-                "record_exists": false
-            },
-            {
-                "domain": "fxpays.com",
                 "record_exists": true
             },
             {
-                "domain": "bitcoins-era.net",
+                "domain": "fxpays.com",
                 "record_exists": false
             },
             {
+                "domain": "bitcoins-era.net",
+                "record_exists": true
+            },
+            {
                 "domain": "marketssoft.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "malleycapital.com",
@@ -1394,7 +1394,7 @@
             },
             {
                 "domain": "nutsbet.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "lt.unibet-35.com",
@@ -1922,7 +1922,7 @@
             },
             {
                 "domain": "bitstarz21.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslotmobi1.xyz",
@@ -2246,7 +2246,7 @@
             },
             {
                 "domain": "1xslot3.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslot4.xyz",
@@ -2490,7 +2490,7 @@
             },
             {
                 "domain": "slottica18.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica19.com",
@@ -2506,7 +2506,7 @@
             },
             {
                 "domain": "slottica22.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica23.com",
@@ -2846,7 +2846,7 @@
             },
             {
                 "domain": "slotica555.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica333.com",
@@ -3218,7 +3218,7 @@
             },
             {
                 "domain": "goldenlinecasino.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fruityvegas.co.uk",
@@ -3470,7 +3470,7 @@
             },
             {
                 "domain": "slottyway6.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottyway7.com",
@@ -3482,7 +3482,7 @@
             },
             {
                 "domain": "slottyway9.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottyway10.com",
@@ -4495,7 +4495,7 @@
             },
             {
                 "domain": "ziurek.org",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.gokas.lt",
@@ -4619,11 +4619,11 @@
             },
             {
                 "domain": "yts.unblocked.llc",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ytss.unblocked.is",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.unblocked.tw",
@@ -4635,7 +4635,7 @@
             },
             {
                 "domain": "yts.unblocked.nz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.unblocked.pw",
@@ -4683,7 +4683,7 @@
             },
             {
                 "domain": "ziurim.in",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziurim.net",
@@ -4835,7 +4835,7 @@
             },
             {
                 "domain": "bknygos.club",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "mrhdrezka.com",
@@ -4851,7 +4851,7 @@
             },
             {
                 "domain": "pdfknygos.biz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "8filmai.online",
@@ -5183,7 +5183,7 @@
             },
             {
                 "domain": "filmai.in.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmaiin.club",
