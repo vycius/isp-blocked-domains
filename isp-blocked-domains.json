@@ -5510,7 +5510,7 @@
             },
             {
                 "domain": "sildymoprekes.lt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "repe.lt",
