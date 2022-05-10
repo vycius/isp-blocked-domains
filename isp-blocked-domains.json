@@ -50,7 +50,7 @@
             },
             {
                 "domain": "ct-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "skyway-capital.com",
@@ -210,7 +210,7 @@
             },
             {
                 "domain": "getimmediateedge.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fxpays.com",
@@ -218,11 +218,11 @@
             },
             {
                 "domain": "bitcoins-era.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "marketssoft.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "malleycapital.com",
@@ -1922,7 +1922,7 @@
             },
             {
                 "domain": "bitstarz21.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslotmobi1.xyz",
@@ -2846,7 +2846,7 @@
             },
             {
                 "domain": "slotica555.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica333.com",
