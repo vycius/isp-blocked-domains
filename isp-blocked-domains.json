@@ -4519,7 +4519,7 @@
             },
             {
                 "domain": "serialai.online",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "pdfknygos.club",
