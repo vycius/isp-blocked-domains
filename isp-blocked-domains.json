@@ -254,7 +254,7 @@
             },
             {
                 "domain": "online.apzvalgos.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "apcofx.com",
