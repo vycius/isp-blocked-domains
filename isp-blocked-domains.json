@@ -598,7 +598,7 @@
             },
             {
                 "domain": "marathonbet0.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "betmarathon.com",
