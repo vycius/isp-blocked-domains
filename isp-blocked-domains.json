@@ -1094,7 +1094,7 @@
             },
             {
                 "domain": "wwin.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-15.com",
@@ -5475,7 +5475,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
