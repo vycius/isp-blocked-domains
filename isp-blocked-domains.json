@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bbmtrade.com",
@@ -62,7 +62,7 @@
             },
             {
                 "domain": "red-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "citadel-fx.com",
@@ -174,7 +174,7 @@
             },
             {
                 "domain": "ptbanc.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "forex-im.com",
@@ -1394,7 +1394,7 @@
             },
             {
                 "domain": "nutsbet.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "lt.unibet-35.com",
@@ -5475,7 +5475,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
