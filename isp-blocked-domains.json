@@ -4343,7 +4343,7 @@
             },
             {
                 "domain": "tophitai.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "pdfknygos.net",
@@ -5475,7 +5475,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
