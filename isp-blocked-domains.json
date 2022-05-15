@@ -558,7 +558,7 @@
             },
             {
                 "domain": "pokerstars.com.kg",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "pokerstars.com.lv",
