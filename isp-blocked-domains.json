@@ -4435,7 +4435,7 @@
             },
             {
                 "domain": "rezka.ag",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "filmix.zone",
@@ -5475,7 +5475,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
