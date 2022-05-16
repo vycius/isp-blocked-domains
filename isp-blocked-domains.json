@@ -5175,7 +5175,7 @@
             },
             {
                 "domain": "instahdrezka.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "aghdrezka.com",
@@ -5475,7 +5475,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.rs",
