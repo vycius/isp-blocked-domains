@@ -4415,7 +4415,7 @@
             },
             {
                 "domain": "knygos.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "kinocoin.co",
