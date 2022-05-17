@@ -218,7 +218,7 @@
             },
             {
                 "domain": "bitcoins-era.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "marketssoft.net",
@@ -1922,7 +1922,7 @@
             },
             {
                 "domain": "bitstarz21.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "1xslotmobi1.xyz",
@@ -2490,7 +2490,7 @@
             },
             {
                 "domain": "slottica18.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "slottica19.com",
@@ -4463,7 +4463,7 @@
             },
             {
                 "domain": "knygos24.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "el-knygos.eu",
@@ -4495,7 +4495,7 @@
             },
             {
                 "domain": "ziurek.org",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmai.gokas.lt",
@@ -4567,7 +4567,7 @@
             },
             {
                 "domain": "ziuri.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "tophitai.us",
@@ -4887,7 +4887,7 @@
             },
             {
                 "domain": "filmas.pro",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziurim.org",
@@ -5475,7 +5475,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.rs",
