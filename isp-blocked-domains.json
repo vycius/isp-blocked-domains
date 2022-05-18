@@ -118,7 +118,7 @@
             },
             {
                 "domain": "learnmakingcash.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "cfdtraderapp.safeoffer.to",
@@ -4226,7 +4226,7 @@
             },
             {
                 "domain": "fortuneclock13.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "fortuneclock14.com",
