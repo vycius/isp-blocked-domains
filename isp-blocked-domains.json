@@ -4435,7 +4435,7 @@
             },
             {
                 "domain": "rezka.ag",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmix.zone",
