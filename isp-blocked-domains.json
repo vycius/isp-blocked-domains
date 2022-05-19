@@ -50,7 +50,7 @@
             },
             {
                 "domain": "ct-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "skyway-capital.com",
@@ -210,7 +210,7 @@
             },
             {
                 "domain": "getimmediateedge.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fxpays.com",
@@ -222,7 +222,7 @@
             },
             {
                 "domain": "marketssoft.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "malleycapital.com",
@@ -1978,7 +1978,7 @@
             },
             {
                 "domain": "22bet7.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "lt.unibet-53.com",
@@ -5475,7 +5475,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.rs",
