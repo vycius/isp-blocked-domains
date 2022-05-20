@@ -5319,7 +5319,7 @@
             },
             {
                 "domain": "fmovies.to",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fmovies.wtf",
