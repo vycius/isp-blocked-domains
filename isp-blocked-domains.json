@@ -18,7 +18,7 @@
             },
             {
                 "domain": "fx-dealer.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bbmtrade.com",
@@ -74,7 +74,7 @@
             },
             {
                 "domain": "verslozinios.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ethereumcode2app.com",
@@ -174,7 +174,7 @@
             },
             {
                 "domain": "ptbanc.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "forex-im.com",
@@ -190,7 +190,7 @@
             },
             {
                 "domain": "everfxglobal.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "10brokers.com",
@@ -214,7 +214,7 @@
             },
             {
                 "domain": "fxpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bitcoins-era.net",
@@ -1394,7 +1394,7 @@
             },
             {
                 "domain": "nutsbet.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-35.com",
