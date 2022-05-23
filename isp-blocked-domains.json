@@ -194,7 +194,7 @@
             },
             {
                 "domain": "10brokers.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "skyway.capital",
@@ -1094,7 +1094,7 @@
             },
             {
                 "domain": "wwin.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "lt.unibet-15.com",
