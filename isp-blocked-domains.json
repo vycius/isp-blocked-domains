@@ -5179,7 +5179,7 @@
             },
             {
                 "domain": "instahdrezka.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "aghdrezka.com",
