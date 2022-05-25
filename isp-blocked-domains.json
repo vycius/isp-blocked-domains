@@ -50,7 +50,7 @@
             },
             {
                 "domain": "ct-trade.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "skyway-capital.com",
@@ -210,7 +210,7 @@
             },
             {
                 "domain": "getimmediateedge.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "fxpays.com",
@@ -222,7 +222,7 @@
             },
             {
                 "domain": "marketssoft.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "malleycapital.com",
@@ -5179,7 +5179,7 @@
             },
             {
                 "domain": "instahdrezka.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "aghdrezka.com",
