@@ -4763,7 +4763,7 @@
             },
             {
                 "domain": "gerifilmai.org",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "hdrezka.co",
@@ -4771,7 +4771,7 @@
             },
             {
                 "domain": "efilmai.net",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "films24.net",
@@ -4899,7 +4899,7 @@
             },
             {
                 "domain": "putlockerc.to",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bmovies.co",
@@ -5171,7 +5171,7 @@
             },
             {
                 "domain": "filmux.us",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "ziuret.online",
@@ -5479,7 +5479,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
