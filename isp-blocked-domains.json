@@ -50,7 +50,7 @@
             },
             {
                 "domain": "ct-trade.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "skyway-capital.com",
@@ -210,7 +210,7 @@
             },
             {
                 "domain": "getimmediateedge.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fxpays.com",
@@ -222,7 +222,7 @@
             },
             {
                 "domain": "marketssoft.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "malleycapital.com",
