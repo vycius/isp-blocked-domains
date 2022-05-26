@@ -38,7 +38,7 @@
             },
             {
                 "domain": "markets-invest.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "programusistemos.lt",
@@ -5479,7 +5479,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
