@@ -5471,7 +5471,7 @@
             },
             {
                 "domain": "knygos.vip",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "lt.slavomirskriniar.xyz",
