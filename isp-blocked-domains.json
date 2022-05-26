@@ -5263,7 +5263,7 @@
             },
             {
                 "domain": "bknyga.club",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmas.vip",
