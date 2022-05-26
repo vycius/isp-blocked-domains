@@ -4639,7 +4639,7 @@
             },
             {
                 "domain": "yts.unblocked.nz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.unblocked.pw",
@@ -4687,7 +4687,7 @@
             },
             {
                 "domain": "ziurim.in",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziurim.net",
@@ -4743,7 +4743,7 @@
             },
             {
                 "domain": "filmas.tv",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmaioso.lt",
@@ -4839,7 +4839,7 @@
             },
             {
                 "domain": "bknygos.club",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "mrhdrezka.com",
@@ -4855,7 +4855,7 @@
             },
             {
                 "domain": "pdfknygos.biz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "8filmai.online",
@@ -5187,7 +5187,7 @@
             },
             {
                 "domain": "filmai.in.net",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "filmaiin.club",
@@ -5403,7 +5403,7 @@
             },
             {
                 "domain": "fmovies.rs",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "fmoviesgo.to",
