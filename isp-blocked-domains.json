@@ -5251,7 +5251,7 @@
             },
             {
                 "domain": "serialurojus.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "m-squarehotel.com",
