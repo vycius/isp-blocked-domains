@@ -4327,6 +4327,18 @@
             {
                 "domain": "supacasi.com",
                 "record_exists": true
+            },
+            {
+                "domain": "pledoo.com",
+                "record_exists": true
+            },
+            {
+                "domain": "pledoo1.com",
+                "record_exists": true
+            },
+            {
+                "domain": "pledoo11.com",
+                "record_exists": true
             }
         ]
     },
