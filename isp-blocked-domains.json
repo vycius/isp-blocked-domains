@@ -722,7 +722,7 @@
             },
             {
                 "domain": "bet365.co",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bet365.co.uk",
@@ -2054,7 +2054,7 @@
             },
             {
                 "domain": "36500365.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "28-365365.com",
@@ -4851,7 +4851,7 @@
             },
             {
                 "domain": "bknygos.club",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "mrhdrezka.com",
