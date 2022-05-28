@@ -714,7 +714,7 @@
             },
             {
                 "domain": "bet365.com.pt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "mobile.bet365.com",
@@ -722,7 +722,7 @@
             },
             {
                 "domain": "bet365.co",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "bet365.co.uk",
