@@ -310,7 +310,7 @@
             },
             {
                 "domain": "tradingteck.co",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "riseglobal.us",
@@ -714,7 +714,7 @@
             },
             {
                 "domain": "bet365.com.pt",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "mobile.bet365.com",
@@ -722,7 +722,7 @@
             },
             {
                 "domain": "bet365.co",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "bet365.co.uk",
