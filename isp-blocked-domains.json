@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "nirotrade.com",
@@ -5491,7 +5491,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "yts.rs",
