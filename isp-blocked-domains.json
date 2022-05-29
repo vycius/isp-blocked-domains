@@ -4659,7 +4659,7 @@
             },
             {
                 "domain": "filmux.tv",
-                "record_exists": false
+                "record_exists": true
             },
             {
                 "domain": "ziurim.gokas.lt",
