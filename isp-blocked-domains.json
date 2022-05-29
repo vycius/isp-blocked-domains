@@ -714,7 +714,7 @@
             },
             {
                 "domain": "bet365.com.pt",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "mobile.bet365.com",
@@ -2054,7 +2054,7 @@
             },
             {
                 "domain": "36500365.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "28-365365.com",
@@ -2078,7 +2078,7 @@
             },
             {
                 "domain": "248365365.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "sb-488.com",
@@ -5491,7 +5491,7 @@
             },
             {
                 "domain": "lt.loringmercier.xyz",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "yts.rs",
