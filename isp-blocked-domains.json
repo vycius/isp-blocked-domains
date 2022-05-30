@@ -290,7 +290,7 @@
             },
             {
                 "domain": "ltpays.com",
-                "record_exists": true
+                "record_exists": false
             },
             {
                 "domain": "nirotrade.com",
